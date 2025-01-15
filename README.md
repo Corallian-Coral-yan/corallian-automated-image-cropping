@@ -1,0 +1,1 @@
+# anaj00-corallian-automated-image-cropping
